@@ -1,0 +1,15 @@
+
+
+.capa{
+  background-color:rgba(27, 25, 27, 0.904);
+  }
+  body {
+    background-image:url('../img/Background.png');
+    background-attachment: fixed;/*para que sea estático*/
+    background-position: center;/*arriba a la derecha*/
+    background-repeat: no-repeat;/*que no se repita el fondo*/
+    background-size: auto;
+    /*https://i.pinimg.com/originals/01/13/f0/0113f0c2c375ea67491cdcccacf7d62f.jpg*/
+    }
+  
+  
